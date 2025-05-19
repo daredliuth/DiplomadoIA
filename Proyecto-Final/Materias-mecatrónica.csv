@@ -1,0 +1,117 @@
+Asignatura,Clave,Semestre,Créditos,División,Departamento,Optativa,Horas teóricas,Horas prácticas,Seriación anterior
+Álgebra,1120,1,8,Ciencias básicas,Coordinación de matemáticas,0,4,0,0
+Cálculo y geometría analítica,1121,1,12,Ciencias básicas,Coordinación de matemáticas,0,6,0,0
+Redacción y exposición de temas de ingeniería,1124,1,6,Ciencias sociales y humanidades,Asignaturas sociohumanísticas,0,2,2,0
+Química,1123,1,10,Ciencias básicas,Coordinación de física y química,0,4,2,0
+Fundamentos de programación,1122,1,10,Ingeniería eléctrica,Ingeniería en computación,0,4,2,0
+Igualdad de género en ingeniería,8000,1,0,Ciencias sociales y humanidades,Asignaturas sociohumanísticas,0,2,0,0
+Álgebra lineal,1220,2,8,Ciencias básicas,Coordinación de matemáticas,0,4,0,1
+Cálculo integral,1221,2,8,Ciencias básicas,Coordinación de matemáticas,0,4,0,1
+Física experimental,2211,2,10,Ciencias básicas,Coordinación de física y química,0,4,2,0
+Estática,1223,2,8,Ciencias básicas,Coordinación de ciencias aplicadas,0,4,0,1
+Dibujo mecánico e industrial,1209,2,6,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,0,2,2,0
+Probabilidad,1436,3,8,Ciencias básicas,Coordinación de ciencias aplicadas,0,4,0,1
+Cálculo vectorial,1321,3,8,Ciencias básicas,Coordinación de matemáticas,0,4,0,1
+Ecuaciones diferenciales,1325,3,8,Ciencias básicas,Coordinación de ciencias aplicadas,0,4,0,1
+Cinemática y dinámica,1322,3,8,Ciencias básicas,Coordinación de ciencias aplicadas,0,4,0,1
+Manufactura I,1225,3,8,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,0,2,4,0
+Cultura y comunicación,1222,3,2,Ciencias sociales y humanidades,Asignaturas sociohumanísticas,0,0,2,0
+Estadística,1569,4,8,Ciencias básicas,Coordinación de ciencias aplicadas,0,4,0,1
+Matemáticas avanzadas,1424,4,8,Ciencias básicas,Coordinación de ciencias aplicadas,0,4,0,0
+Electricidad y magnetismo,1414,4,10,Ciencias básicas,Coordinación de física y química,0,4,2,1
+Análisis numérico,1433,4,8,Ciencias básicas,Coordinación de ciencias aplicadas,0,4,0,1
+Termodinámica,1437,4,10,Ciencias básicas,Coordinación de física y química,0,4,2,0
+Taller sociohumanístico,,4,2,,,1,0,2,0
+Análisis de circuitos,1550,5,10,Ingeniería mecánica e industrial,Ingeniería mecatrónica,0,4,2,0
+Termofluidos,1409,5,10,Ingeniería mecánica e industrial,Termofluidos,0,4,2,1
+Ingeniería de materiales,1570,5,10,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,0,4,2,0
+Mecánica de sólidos,1540,5,8,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,0,4,0,0
+Técnicas de programación,1472,5,10,Ingeniería mecánica e industrial,Ingeniería mecatrónica,0,4,2,0
+Electrónica básica,1691,6,10,Ingeniería mecánica e industrial,Ingeniería mecatrónica,0,4,2,1
+Modelado de sistemas físicos,508,6,8,Ingeniería mecánica e industrial,Ingeniería mecatrónica,0,4,0,0
+Ingeniería de manufactura,507,6,10,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,0,4,2,1
+Mecanismos,1659,6,8,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,0,4,0,0
+Temas selectos de programación I,1964,6,6,Ingeniería mecánica e industrial,Ingeniería mecatrónica,0,2,2,1
+Optativa de ciencias sociales y humanidades,,6,6,,,1,2,2,0
+Circuitos digitales,1996,7,10,Ingeniería mecánica e industrial,Ingeniería mecatrónica,0,4,2,1
+Sistemas electrónicos lineales,1973,7,8,Ingeniería mecánica e industrial,Ingeniería mecatrónica,0,4,0,1
+Introducción a la economía,1413,7,8,Ciencias sociales y humanidades,Asignaturas sociohumanísticas,0,4,0,0
+Diseño de elementos de máquinas,1782,7,8,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,0,4,0,1
+Ingeniería económica,1734,7,8,Ingeniería mecánica e industrial,Ingeniería industrial,0,4,0,0
+Máquinas eléctricas,549,8,10,Ingeniería mecánica e industrial,Ingeniería mecatrónica,0,4,2,0
+Instrumentación,510,8,8,Ingeniería mecánica e industrial,Ingeniería mecatrónica,0,4,0,1
+Control automático,551,8,8,Ingeniería mecánica e industrial,Ingeniería mecatrónica,0,4,0,1
+Desarrollo empresarial,1059,8,6,Ingeniería mecánica e industrial,Ingeniería industrial,0,2,2,0
+Asignatura optativa,,8,8,,,1,4,0,0
+Optativa de ciencias sociales y humanidades,,8,6,,,1,2,0,0
+Diseño mecatrónico,563,9,10,Ingeniería mecánica e industrial,Ingeniería mecatrónica,0,4,2,1
+Automatización industrial,572,9,8,Ingeniería mecánica e industrial,Ingeniería mecatrónica,0,2,4,0
+Diseño y manufactura asistidos por computadora,972,9,10,Ingeniería mecánica e industrial,Ingeniería mecatrónica,0,4,2,0
+Robótica,2135,9,10,Ingeniería mecánica e industrial,Ingeniería mecatrónica,0,4,2,0
+Ética profesional,1052,9,6,Ciencias sociales y humanidades,Asignaturas sociohumanísticas,0,2,2,0
+Recursos y necesidades de México,2080,10,8,Ciencias sociales y humanidades,Asignaturas sociohumanísticas,0,4,0,0
+Asignatura optativa,,10,8,,,1,4,0,0
+Asignatura optativa,,10,8,,,1,4,0,0
+Asignatura optativa,,10,8,,,1,4,0,0
+Asignatura optativa,,10,8,,,1,4,0,0
+Asignatura optativa,,10,8,,,1,4,0,0
+México nación multicultural,1791,"6,8",4,Ciencias sociales y humanidades,Asignaturas sociohumanísticas,1,2,0,0
+Literatura hispanoamericana contemporánea,1055,"6,8",6,Ciencias sociales y humanidades,Asignaturas sociohumanísticas,1,2,2,0
+Ciencia tecnología y sociedad,1789,"6,8",4,Ciencias sociales y humanidades,Asignaturas sociohumanísticas,1,2,0,0
+Introducción al análisis económico empresarial,1790,"6,8",4,Ciencias sociales y humanidades,Asignaturas sociohumanísticas,1,2,0,0
+Taller sociohumanístico – Creatividad,1795,4,2,Ciencias sociales y humanidades,Asignaturas sociohumanísticas,1,0,2,0
+Taller sociohumanístico – Liderazgo,1796,4,2,Ciencias sociales y humanidades,Asignaturas sociohumanísticas,1,0,2,0
+Seminario sociohumanístico: Historia y prospectiva de la ingeniería,1792,"6,8",2,Ciencias sociales y humanidades,Asignaturas sociohumanísticas,1,0,2,0
+Seminario sociohumanístico: Ingeniería y políticas públicas,1793,"6,8",2,Ciencias sociales y humanidades,Asignaturas sociohumanísticas,1,0,2,0
+Seminario sociohumanístico: Ingeniería y sustentabilidad,1794,"6,8",2,Ciencias sociales y humanidades,Asignaturas sociohumanísticas,1,0,2,0
+Acústica y óptica,1780,"87,10",10,Ciencias básicas,Coordinación de física y química,1,4,2,0
+Automatización avanzada,1198,10,8,Ingeniería mecánica e industrial,Ingeniería mecatrónica,1,2,4,0
+Control aplicado,2035,10,8,Ingeniería mecánica e industrial,Ingeniería mecatrónica,1,3,2,0
+Control avanzado,29090,10,10,Ingeniería eléctrica,Ingeniería de control,1,4,2,0
+Dinámica de maquinaria,2806,"8,10",10,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,1,4,2,0
+Diseño del producto,971,"8,10",8,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,1,4,0,0
+Ingeniería de diseño,992,"8,10",10,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,1,4,2,0
+Instalaciones industriales,2805,"8,10",8,Ingeniería mecánica e industrial,Ingeniería industrial,1,4,0,0
+Inteligencia artificial,406,10,8,Ingeniería eléctrica,Ingeniería en computación,1,4,0,0
+Introducción a sistemas no lineales,574,10,8,Ingeniería mecánica e industrial,Ingeniería mecatrónica,1,4,0,0
+Sistemas de manifactura flexible,3064,"8,10",8,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,1,3,2,0
+Sistemas de mejoramiento ambiental,2137,"8,10",8,Ingeniería mecánica e industrial,Termofluidos,1,4,0,0
+Planeación y control de la producción,619,"8,10",10,Ingeniería mecánica e industrial,Ingeniería industrial,1,4,2,0
+Estudio del trabajo,192,"8,10",10,Ingeniería mecánica e industrial,Ingeniería industrial,1,4,2,0
+Diseño de la cadena de suministros,2804,"8,10",8,Ingeniería mecánica e industrial,Ingeniería industrial,1,4,0,0
+Diseño de sistemas productivos,143,"8,10",8,Ingeniería mecánica e industrial,Ingeniería industrial,1,4,0,0
+Desarrollo de habilidades directivas,1057,"8,10",6,Ingeniería mecánica e industrial,Ingeniería industrial,1,2,2,0
+Administración,18,"8,10",6,Ingeniería mecánica e industrial,Ingeniería industrial,1,2,2,0
+Sistemas de comercialización,1115,"8,10",6,Ingeniería mecánica e industrial,Ingeniería industrial,1,2,2,0
+Dirección de proyectos,2920,"8,10",6,Ingeniería mecánica e industrial,Ingeniería industrial,1,2,2,0
+Legislación industrial,1074,"8,10",6,Ingeniería mecánica e industrial,Ingeniería industrial,1,2,2,0
+Biomecánica,1009,"8,10",10,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,1,4,2,0
+Ingeniería automotriz I,3071,"8,10",8,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,1,4,0,0
+Ingeniería automotriz II,3080,"8,10",8,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,1,4,0,0
+Mecánica de fluidos I,462,"8,10",10,Ingeniería mecánica e industrial,Termofluidos,1,4,2,0
+Sistemas termoenergéticos,2926,"8,10",6,Ingeniería mecánica e industrial,Termofluidos,1,2,2,0
+Temas selectos de dirección y creación de empresas,3077,"8,10",6,Ingeniería mecánica e industrial,Ingeniería industrial,1,2,2,0
+Temas selectos de ingeniería de diseño I,3083,"8,10",8,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,1,4,0,0
+Temas selectos de ingeniería de diseño II,3084,"8,10",8,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,1,4,0,0
+Temas selectos de ingeniería mecánica I,3085,"8,10",8,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,1,4,0,0
+Temas selectos de ingeniería mecánica II,3086,"8,10",8,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,1,4,0,0
+Temas selectos de ingeniería biomédica,3007,"8,10",6,Ingeniería eléctrica,Ingeniería de control,1,3,0,0
+Temas selectos de gestión de la cadena de suministros,3068,"8,10",6,Ingeniería mecánica e industrial,Ingeniería industrial,1,2,2,0
+Temas selectos de ingeniería en materiales y manufactura I,3087,"8,10",8,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,1,4,0,0
+Temas selectos de ingeniería en materiales y manufactura II,3088,"8,10",8,Ingeniería mecánica e industrial,Ingeniería de diseño y manufactura,1,4,0,0
+Temas selectos de mecatrónica I,3089,"8,10",8,Ingeniería mecánica e industrial,Ingeniería mecatrónica,1,4,0,0
+Temas selectos de mecatrónica II,3090,"8,10",8,Ingeniería mecánica e industrial,Ingeniería mecatrónica,1,4,0,0
+Temas selectos de programación II,3098,"8,10",8,Ingeniería mecánica e industrial,Ingeniería mecatrónica,1,4,0,0
+Temas selectos de termofluidos I,2077,"8,10",8,Ingeniería mecánica e industrial,Termofluidos,1,4,0,0
+Temas selectos de termofluidos I,2078,"8,10",8,Ingeniería mecánica e industrial,Termofluidos,1,4,0,0
+Movilidad I,2200,"7,8,9,10",4,Ingeniería mecánica e industrial,,1,2,0,0
+Movilidad II,2201,"7,8,9,10",6,Ingeniería mecánica e industrial,,1,3,0,0
+Movilidad III,2202,"7,8,9,10",6,Ingeniería mecánica e industrial,,1,3,0,0
+Movilidad IV,2203,"7,8,9,10",6,Ingeniería mecánica e industrial,,1,3,0,0
+Movilidad V,2204,"7,8,9,10",6,Ingeniería mecánica e industrial,,1,3,0,0
+Movilidad VI,2205,"7,8,9,10",6,Ingeniería mecánica e industrial,,1,3,0,0
+Movilidad VII,2206,"7,8,9,10",8,Ingeniería mecánica e industrial,,1,4,0,0
+Movilidad VIII,2207,"7,8,9,10",8,Ingeniería mecánica e industrial,,1,4,0,0
+Movilidad IX,2208,"7,8,9,10",8,Ingeniería mecánica e industrial,,1,4,0,0
+Movilidad X,2209,"7,8,9,10",8,Ingeniería mecánica e industrial,,1,4,0,0
+Movilidad XI,2210,"7,8,9,10",10,Ingeniería mecánica e industrial,,1,4,2,0
